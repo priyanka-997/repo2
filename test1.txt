@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE38-E5F6
+
+ Directory of C:\Users\REL145\Desktop\MyProject
+
+20-04-2023  20:39    <DIR>          .
+20-04-2023  20:39    <DIR>          ..
+20-04-2023  19:59                21 index.html
+20-04-2023  19:59                 8 test.txt
+20-04-2023  20:39                 0 test1.txt
+               3 File(s)             29 bytes
+               2 Dir(s)  1,934,626,672,640 bytes free
